@@ -1,3 +1,4 @@
+/* Adding custom font to the page */
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -37,9 +38,13 @@ textarea {
 }
 
 .hour {
+  display:flex;
+  align-items: center;
+  justify-content: center;
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  text-align: center;
 }
 
 .past {
@@ -69,3 +74,6 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+/* .row section {
+  border: 2px solid black;
+} */
