@@ -6,7 +6,7 @@ fill in event details for. The save button allows you to lock in events and come
 page later to check in on your schedule again. Hour block coloring refreshes over time as well.
 
  Link to deployed page:
- https://gordon-magill.github.io/code_quiz/
+https://gordon-magill.github.io/day_calendar/
  ![Deployed page](./assets/images/deployed_screenshot.png)
 ## Authors
 
